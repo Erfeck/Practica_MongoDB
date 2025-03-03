@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="flatlaf-demo-3.5.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/flatlaf-demo-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgoodies-common-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgoodies-forms-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/LGoodDatePicker-10.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

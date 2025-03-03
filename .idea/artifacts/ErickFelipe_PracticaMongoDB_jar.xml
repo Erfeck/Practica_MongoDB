@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ErickFelipe_PracticaMongoDB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ErickFelipe_PracticaMongoDB_jar</output-path>
+    <root id="archive" name="ErickFelipe_PracticaMongoDB.jar">
+      <element id="module-output" name="ErickFelipe_PracticaMongoDB" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/flatlaf-demo-3.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jgoodies-common-1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jgoodies-forms-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/LGoodDatePicker-10.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mongo-java-driver-3.6.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
